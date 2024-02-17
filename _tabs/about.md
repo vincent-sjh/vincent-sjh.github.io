@@ -8,6 +8,9 @@ order: 20
 
   - 🏫  I am a senior undergraduate student from Tsinghua University majoring in Computer Science and Technology.
   - 💻  I work on C / C++ / Python / Markdown.
+  
 - ### I'm a hacker, creator, and entrepreneur, inspired by "Hackers and Painters" by Y Combinator founder Paul Graham. Hacking, or developing, is the act of creating something new, much like painting. This analogy eventually became my guiding principle. My computer is like my paintbrush, I use it to "paint" my products, blogs and videos. Hacking is a way for me to express myself, connect, and resonate with others.
+
 - ### Honors and Awards
+- First prize at province level in the CNMO (China National Mathematics Olympiad) Nov.2019
 - Freshmen Scholarship for Outstanding Students   Oct.2022/2023
