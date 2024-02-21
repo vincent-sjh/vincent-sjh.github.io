@@ -12,4 +12,9 @@ typora-root-url: ../../framontom.github.io
 math: false
 mermaid: true
 ---
-故事在这里开始。
+- C/C++
+- Python
+- Django/Sanic
+- Markdown
+- HTML
+- CSS/Javascript
