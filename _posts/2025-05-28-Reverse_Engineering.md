@@ -701,6 +701,7 @@ int main(int argc, char* argv[]) {
 将十六进制转化为十进制，我们可以看到真正的逻辑如下。
 
 ```c
+    // 参数为同学学号
 	val1 = studentId;
     val2 = studentId;
     
