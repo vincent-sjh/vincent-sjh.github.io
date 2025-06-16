@@ -1,3 +1,17 @@
+---
+title: Hello World!
+date: 2024-02-15 00:30:00 +0800
+categories: [technology]
+tags: [os]
+pin: true
+author: 宋建昊
+
+toc: true
+comments: true
+typora-root-url: ../../framontom.github.io
+math: false
+mermaid: true
+---
 # 一次有趣的逆向工程经历
 
 ## 前因
