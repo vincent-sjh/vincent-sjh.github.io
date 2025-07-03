@@ -1,7 +1,7 @@
 ---
-title: A try on reverse engineering
+title: A Try on Reverse Engineering | Vincent's technical reports (Vol. 1)
 date: 2024-06-15 00:30:00 +0800
-categories: [technology]
+categories: [Vincent's technical reports]
 tags: [os]
 pin: true
 author: 宋建昊
