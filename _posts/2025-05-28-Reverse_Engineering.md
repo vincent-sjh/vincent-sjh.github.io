@@ -1,5 +1,5 @@
 ---
-title: A Try on Reverse Engineering | Vincent's technical reports (Vol. 1)
+title: A Try on Reverse Engineering | Vincent's Technical Reports (Vol. 1)
 date: 2024-06-15 00:30:00 +0800
 categories: [Vincent's technical reports]
 tags: [os]
