@@ -38,7 +38,7 @@ objdump -d -C ./main
 
 执行命令后得到本次所关注的`lipsum()`函数和`main`函数。
 
-```
+```assembly
 0000000000001150 <main>:
     1150:       41 54                   push   %r12
     1152:       55                      push   %rbp
