@@ -17,8 +17,7 @@ order: 20
 - Human-Computer Interaction (HCI)
 
 - ### Self Introduction 
-I'm a innovator, explorer and builder. I am not content to learn and just imitate the knowledge and skills that already exist, but crazy about creating something new, which echoes what Greek philosopher Socrates said 2500 years ago, “Education
-is a kindling of a flame, not a filling of a vessel”. I love that what I do really changes the world, and coding is a way for me to interact with this world.
+I'm a innovator, explorer and builder. I am not content to learn and just imitate the knowledge and skills that already exist, but crazy about creating something new, which echoes what Greek philosopher Socrates said 2500 years ago, “Education is a kindling of a flame, not a filling of a vessel”. I love that what I do really changes the world, and coding is a way for me to interact with this world.
 - ### Honors and Awards
 
 - 1. First prize at province level in the CNMO (China National Mathematics Olympiad) Nov. 2019
