@@ -2,7 +2,7 @@
 title: Hello World!
 date: 2024-02-15 00:30:00 +0800
 categories: [Milestone]
-tags: [hello world]
+tags: [Hello World]
 pin: true
 author: 宋建昊
 
