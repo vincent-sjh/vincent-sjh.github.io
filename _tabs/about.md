@@ -10,7 +10,7 @@ order: 20
 ### Hi there 👋！ Great to see you!
 
   - 🏫  I am a senior undergraduate student from [Tsinghua University](https://www.tsinghua.edu.cn/) majoring in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/).
-  - ⌨️  Programming Languages I use: C / C++ / Python / Ocaml / Rust / HTML / CSS / Javascripts
+  - ⌨️  Programming Languages I use: C / C++ / Python / Ocaml / Rust / HTML / CSS / Matlab
   - 💻  Tools and Frameworks I use: Pytorch / vLLM / React / Django / Sanic  
 
 ### My Research Interests
