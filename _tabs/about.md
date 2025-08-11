@@ -29,9 +29,10 @@ I'm a innovator, explorer and builder. I am not content to learn and just imitat
 
 ### Honors and Awards
 
-1. First prize at province level in the CNMO (China National Mathematics Olympiad) Nov. 2019
-2. The top science student (ranked first) in the 2022 college entrance examination in Shenyang City. Jun. 2022
-3. Freshmen Scholarship for Outstanding Students Oct. 2022/2023/2024
+1. First prize at province level in the CNMO (China National Mathematics Olympiad)  Nov. 2019
+2. The top science student (ranked first) in the 2022 college entrance examination in Shenyang City  Jun. 2022
+3. Freshmen Scholarship for Outstanding Students  Oct. 2022/2023/2024
+4. ByteDance Trae SOLO Hackathon Outstanding Work Award  Aug. 2025
 
 ### More
 
