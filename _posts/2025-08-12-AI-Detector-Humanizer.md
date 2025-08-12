@@ -13,7 +13,7 @@ math: true
 mermaid: true
 ---
 
-# AI Detector & Humanizer
+# AI Detector V.S. Humanizer
 
 ## 简介
 
