@@ -2,7 +2,7 @@
 title: A Try on Reverse Engineering | Vincent's Technical Reports (Vol. 1)
 date: 2025-05-28 00:30:00 +0800
 categories: [Vincent's Technical Reports]
-tags: [Reverse Engineering]
+tags: [Reverse Engineering,LLM,Decompiler]
 pin: true
 author: 宋建昊
 
