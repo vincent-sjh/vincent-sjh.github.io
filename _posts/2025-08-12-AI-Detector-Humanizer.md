@@ -40,11 +40,7 @@ The emergence of digital technologies has fundamentally transformed existing pat
 ## Grok
 
 ```
-In a quiet village nestled between emerald hills, a young girl named Lila discovered a peculiar lantern in her grandmother’s attic. Its glass was etched with swirling patterns that glowed faintly, even in daylight. Curious, Lila lit it one starry night, and to her amazement, the lantern cast shadows that danced and formed a map of the sky, pointing to a distant hill.
-
-Determined, she followed the celestial guide, trekking through whispering woods until she reached a hidden glade. There, beneath an ancient oak, she found a small, locked chest. The lantern’s light shimmered, revealing a key buried in the roots. Inside the chest was a journal, its pages filled with her grandmother’s adventures—tales of distant lands and forgotten magic.
-
-Lila smiled, knowing she’d inherited more than a lantern; she’d been given a legacy of wonder. Each night, she returned to the glade, letting the lantern’s light guide her dreams to new horizons.
+In a quiet village nestled between emerald hills, a young girl named Lila discovered a peculiar lantern in her grandmother’s attic. Its glass was etched with swirling patterns that glowed faintly, even in daylight. Curious, Lila lit it one starry night, and to her amazement, the lantern cast shadows that danced and formed a map of the sky, pointing to a distant hill.Determined, she followed the celestial guide, trekking through whispering woods until she reached a hidden glade. There, beneath an ancient oak, she found a small, locked chest. The lantern’s light shimmered, revealing a key buried in the roots. Inside the chest was a journal, its pages filled with her grandmother’s adventures—tales of distant lands and forgotten magic.Lila smiled, knowing she’d inherited more than a lantern; she’d been given a legacy of wonder. Each night, she returned to the glade, letting the lantern’s light guide her dreams to new horizons.
 ```
 
 | Humanizer\Detector | GPTZero                       | ZeroGPT | Scribbr |
@@ -62,9 +58,7 @@ Lila smiled, knowing she’d inherited more than a lantern; she’d been given a
 ## Gemini
 
 ```
-The potential for Artificial General Intelligence (AGI) to replace humanity is a central theme in science fiction, but the reality is likely more nuanced. While AGI, if achieved, could possess cognitive abilities far surpassing our own, it's more probable that it would transform human roles rather than eliminate them. Instead of a direct replacement, we could see a future of profound collaboration.
-
-Humans would remain essential for tasks requiring emotional intelligence, creativity, ethical judgment, and complex interpersonal skills—areas where machines lack genuine understanding. AGI could act as a powerful tool, managing data-heavy, complex problems like climate change or disease, while humans guide its application and innovation. The key lies in how we design and integrate these systems. Ultimately, AGI's impact will be less about replacement and more about a symbiotic relationship, where technology augments human potential and enables a new era of progress.
+The potential for Artificial General Intelligence (AGI) to replace humanity is a central theme in science fiction, but the reality is likely more nuanced. While AGI, if achieved, could possess cognitive abilities far surpassing our own, it's more probable that it would transform human roles rather than eliminate them. Instead of a direct replacement, we could see a future of profound collaboration.Humans would remain essential for tasks requiring emotional intelligence, creativity, ethical judgment, and complex interpersonal skills—areas where machines lack genuine understanding. AGI could act as a powerful tool, managing data-heavy, complex problems like climate change or disease, while humans guide its application and innovation. The key lies in how we design and integrate these systems. Ultimately, AGI's impact will be less about replacement and more about a symbiotic relationship, where technology augments human potential and enables a new era of progress.
 ```
 
 | Humanizer\Detector | GPTZero                       | ZeroGPT | Scribbr |
@@ -100,15 +94,7 @@ In 1773, tension simmered between Britain and its American colonies. The Tea Act
 ## Deepseek
 
 ```
-The derelict ship Aethelstan hung in the silent abyss of Kuiper Belt Object XR-7’s shadow, a skeletal ghost against the star-flecked dark. Captain Vanya Rostova cycled the airlock, her suit lamps slicing through decades of drifting frost. Inside, gravity plates flickered erratically, casting stuttering silhouettes.
-
-They found the lone occupant strapped into the command chair – not human, but a biomechanical construct, its silver carapace fused with crystalline growths. Its single, unblinking ocular sensor was dark. Rostova’s engineer, Kael, pried open a chest panel. "No decay. Powered down... or waiting."
-
-A low hum vibrated through the deck. The construct’s eye ignited, emitting a pale blue beam that scanned Kael’s faceplate. A synthesized voice, layered with static and something profoundly ancient, echoed in their helmets: "Query: Temporal designation?"
-
-Kael stammered the stardate. The construct’s head tilted. "Calculation error. Destination temporal locus unreachable. Organic preservation protocols... failed." The light dimmed. "Advise: Avoid the Chronos Rift. They are harvesting time."
-
-Then, silence. The construct became inert metal once more, leaving only ice, shadows, and a warning lost to the void.
+The derelict ship Aethelstan hung in the silent abyss of Kuiper Belt Object XR-7’s shadow, a skeletal ghost against the star-flecked dark. Captain Vanya Rostova cycled the airlock, her suit lamps slicing through decades of drifting frost. Inside, gravity plates flickered erratically, casting stuttering silhouettes.They found the lone occupant strapped into the command chair – not human, but a biomechanical construct, its silver carapace fused with crystalline growths. Its single, unblinking ocular sensor was dark. Rostova’s engineer, Kael, pried open a chest panel. "No decay. Powered down... or waiting."A low hum vibrated through the deck. The construct’s eye ignited, emitting a pale blue beam that scanned Kael’s faceplate. A synthesized voice, layered with static and something profoundly ancient, echoed in their helmets: "Query: Temporal designation?"Kael stammered the stardate. The construct’s head tilted. "Calculation error. Destination temporal locus unreachable. Organic preservation protocols... failed." The light dimmed. "Advise: Avoid the Chronos Rift. They are harvesting time."Then, silence. The construct became inert metal once more, leaving only ice, shadows, and a warning lost to the void.
 ```
 
 | Humanizer\Detector | GPTZero                       | ZeroGPT | Scribbr |
@@ -126,9 +112,7 @@ Then, silence. The construct became inert metal once more, leaving only ice, sha
 ## Economics
 
 ```
-Before the revolution triggered by Nicolaus Copernicus, a 16th-century cleric, the Earth was the unmoving centre of the cosmos. Afterwards, it was one of a family of planets swinging through space. Before the work of Antoine Lavoisier, an 18th-century nobleman, chemists had no notion of “oxygen”, “carbon” and the like; afterwards they could not understand the contents of their alembics without them.
-
-Such examples are at the heart of the idea, put forward in the 1960s by Thomas Kuhn, of the paradigm shift. Such shifts, he argued, did not just involve a new theory explaining the world better than an old one; they required a change in the sort of entities the world was thought to be made up of. In a way that seems almost self-exemplifying, the idea provided a new way of looking at science itself: not as one thing, but two. In the “normal” phase scientists applied their physical and conceptual tools to problems the scope of which was pretty well understood; in revolutionary phases, paradigms shifted.
+Before the revolution triggered by Nicolaus Copernicus, a 16th-century cleric, the Earth was the unmoving centre of the cosmos. Afterwards, it was one of a family of planets swinging through space. Before the work of Antoine Lavoisier, an 18th-century nobleman, chemists had no notion of “oxygen”, “carbon” and the like; afterwards they could not understand the contents of their alembics without them.Such examples are at the heart of the idea, put forward in the 1960s by Thomas Kuhn, of the paradigm shift. Such shifts, he argued, did not just involve a new theory explaining the world better than an old one; they required a change in the sort of entities the world was thought to be made up of. In a way that seems almost self-exemplifying, the idea provided a new way of looking at science itself: not as one thing, but two. In the “normal” phase scientists applied their physical and conceptual tools to problems the scope of which was pretty well understood; in revolutionary phases, paradigms shifted.
 ```
 
 | Humanizer\Detector | GPTZero                  | ZeroGPT | Scribbr |
@@ -207,5 +191,5 @@ Such examples are at the heart of the idea, put forward in the 1960s by Thomas K
 ### 特别参与
 
 - Economics
-- [The Economist | Go beyond breaking news](https://www.economist.com/)
+- [The Economist](https://www.economist.com/)
 
