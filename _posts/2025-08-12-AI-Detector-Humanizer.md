@@ -162,34 +162,22 @@ Before the revolution triggered by Nicolaus Copernicus, a 16th-century cleric, t
 
 ### 降重工具
 
-- humanizeaiwork
-- [AI Text Humanizer | 100% Bypass AI Detection](https://www.humanizeaiwork.com/)
-- humanizeai.pro 
-- [Humanize AI](https://www.humanizeai.pro/)
-- writehuman 
-- [WriteHuman AI Humanizer Tool: Humanize AI Text](https://writehuman.ai/)
-- aihumanize 
-- [AI Humanize: Free Humanize AI Text & AI Humanizer Online](https://aihumanize.io/)
-- notegpt
-- [AI Humanizer - Free AI Text Humanizer Tool, No Sign-up](https://notegpt.io/ai-humanizer)
-- humanizeai.io 
-- [AI Humanizer: Free Humanize AI Text Tool | Unlimited Words](https://www.humanizeai.io/)
-- humanizeaitext 
-- [Humanize AI Text - #1 AI Humanizer | UNLIMITED Free Words](https://humanizeaitext.ai/)
-- hixbypass 
-- [HIX Humanizer | Optimize AI Writing for a Natural, Authentic Tone](https://hixbypass.com/)
+- [humanizeaiwork](https://www.humanizeaiwork.com/)
+- [humanizeai.pro](https://www.humanizeai.pro/)
+- [writehuman](https://writehuman.ai/)
+- [aihumanize](https://aihumanize.io/)
+- [notegpt](https://notegpt.io/ai-humanizer)
+- [humanizeai.io](https://www.humanizeai.io/)
+- [humanizeaitext](https://humanizeaitext.ai/) 
+- [hixbypass](https://hixbypass.com/)
 
 ### 检查工具
 
-- GPTZero
-- [GPTZero Dashboard](https://app.gptzero.me/)
-- ZeroGPT
-- [AI Detector - Trusted AI Checker for ChatGPT, GPT4 & Gemini](https://www.zerogpt.com/)
-- Scribbr
-- [AI Detector - Trusted AI Checker for ChatGPT, Copilot & Gemini](https://www.scribbr.com/ai-detector/)
+- [GPTZero](https://app.gptzero.me/)
+- [ZeroGPT](https://www.zerogpt.com/)
+- [Scribbr](https://www.scribbr.com/ai-detector/)
 
 ### 特别参与
 
-- Economics
 - [The Economist](https://www.economist.com/)
 
