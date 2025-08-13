@@ -5,7 +5,7 @@ order: 20
 ---
 # Jianhao Song  宋建昊
 
-# [Vincent's Homepage](https://vincent-sjh.github.io/homepage/index.html)
+### [Vincent's Homepage](https://vincent-sjh.github.io/homepage/index.html)
 
 ### Hi there 👋！ Great to see you!
 
