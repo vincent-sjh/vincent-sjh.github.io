@@ -5,11 +5,11 @@ order: 20
 ---
 # Jianhao Song  宋建昊
 
-[Vincent's Homepage](https://vincent-sjh.github.io/homepage/index.html)
+# [Vincent's Homepage](https://vincent-sjh.github.io/homepage/index.html)
 
 ### Hi there 👋！ Great to see you!
 
-  - 🏫  I am a senior undergraduate student from [Tsinghua University](https://www.tsinghua.edu.cn/) majoring in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/).
+  - 🏫  I am a student from [Tsinghua University](https://www.tsinghua.edu.cn/) majoring in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/).
   - 🦀 Programming Languages: C / C++ / Python / Ocaml / Rust / Markdown / HTML / CSS / Matlab
   - 🤖 Frameworks : Pytorch / vLLM / React / Django / Sanic  
   - 🛠️ Apps & Tools : Shell / Vim / Git / LaTeX / Obsidian / Ghidra
@@ -37,3 +37,5 @@ I'm a innovator, explorer and builder. I am not content to learn and just imitat
 ### More
 
 1. I am a member of [TH-MOS](https://moshumanoid.github.io/), a football team where all the players are robots.Our [humanoid robot](https://www.ais.uni-bonn.de/humanoidsoccer/qualification/TH-MOS-TeenSize_TDP.pdf) achieved excellent results in the [RoboCup](https://www.robocup.org/).
+
+2. I am a contributor to [AGI-Eval](https://agi-eval.cn/) community, where we design professional-level tasks to pose challenging requirements for top industry agents and comprehensively assess their overall performance to promote the construction of a scientific and comprehensive Agent evaluation system.
