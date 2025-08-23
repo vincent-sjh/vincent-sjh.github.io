@@ -33,6 +33,7 @@ I'm a innovator, explorer and builder. I am not content to learn and just imitat
 2. The top science student (ranked first) in the 2022 college entrance examination in Shenyang City  Jun. 2022
 3. Freshmen Scholarship for Outstanding Students  Oct. 2022/2023/2024
 4. ByteDance Trae SOLO Hackathon Outstanding Work Award  Aug. 2025
+5. First Prize in the OS Kernel Implementation Track, Computer System Capability Competition(CSCC) - National Finals  Aug. 2025
 
 ### More
 
