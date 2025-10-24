@@ -31,9 +31,11 @@ I'm a innovator, explorer and builder. I am not content to learn and just imitat
 
 1. First prize at province level in the CNMO (China National Mathematics Olympiad)  Nov. 2019
 2. The top science student (ranked first) in the 2022 college entrance examination in Shenyang City  Jun. 2022
-3. Freshmen Scholarship for Outstanding Students  Oct. 2022/2023/2024
+3. Tsinghua University Freshmen Scholarship for Outstanding Students  Oct. 2022/2023/2024/2025
 4. ByteDance Trae SOLO Hackathon Outstanding Work Award  Aug. 2025
 5. First Prize in the OS Kernel Implementation Track, Computer System Capability Competition(CSCC) - National Finals  Aug. 2025
+6. Tsinghua University Academic Excellence Scholarship  Oct. 2025
+7. Tsinghua University Science and Technology Innovation Scholarship  Oct. 2025 
 
 ### More
 
