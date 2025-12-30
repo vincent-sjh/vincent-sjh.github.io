@@ -141,7 +141,7 @@ Before the revolution triggered by Nicolaus Copernicus, a 16th-century cleric, t
 | hixbypass          | 25.40   | 7.68    | 0.00    | 11.03   |
 | LLM                | 100.00  | 81.25   | 85.00   | 88.75   |
 | Average            | 69.98   | 19.86   | 18.52   | 36.12   |
-| Delta              | -30.02% | -61.39% | -66.48  | 52.63   |
+| Delta              | -30.02% | -61.39% | -66.48  | -52.63   |
 
 ## 实验结果总结
 

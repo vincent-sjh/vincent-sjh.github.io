@@ -39,6 +39,14 @@ I'm a innovator, explorer and builder. I am not content to learn and just imitat
 
 ### More
 
-1. I am a member of [TH-MOS](https://moshumanoid.github.io/), a football team where all the players are robots.Our [humanoid robot](https://www.ais.uni-bonn.de/humanoidsoccer/qualification/TH-MOS-TeenSize_TDP.pdf) achieved excellent results in the [RoboCup](https://www.robocup.org/).
+1. I am a contributor to [AGI-Eval](https://agi-eval.cn/) community, where we design professional-level tasks to pose challenging requirements for top industry agents and comprehensively assess their overall performance to promote the construction of a scientific and comprehensive Agent evaluation system.
 
-2. I am a contributor to [AGI-Eval](https://agi-eval.cn/) community, where we design professional-level tasks to pose challenging requirements for top industry agents and comprehensively assess their overall performance to promote the construction of a scientific and comprehensive Agent evaluation system.
+2. I am a experience officer on [WATCHA](https://watcha.cn/), a platform where super individuals present their ideas and works in the first instance, obtain feedback and suggestions from real users, discover, experience and evaluate various novel and interesting AI products, and express their insightful views.
+
+### Email
+
+- Gmail:songjianhao336@gmail.com
+- QQ Mail:244631919@qq.com
+- THU Mail:songjh22@mails.tsinghua.edu.cn
+
+### Link in Bio
