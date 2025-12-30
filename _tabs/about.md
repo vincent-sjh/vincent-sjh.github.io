@@ -7,17 +7,8 @@ order: 20
 
 ## [Vincent's Homepage](https://vincent-sjh.github.io/homepage/index.html)
 
-### Hi there 👋！ Great to see you!
-
-  - 🏫  I am a student from [Tsinghua University](https://www.tsinghua.edu.cn/) majoring in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/).
-  - 🦀 Programming Languages: C / C++ / Python / Ocaml / Rust / Markdown / HTML / CSS / Matlab
-  - 🤖 Frameworks : Pytorch / vLLM / React / Django / Sanic  
-  - 🛠️ Apps & Tools : Shell / Vim / Git / LaTeX / Obsidian / Ghidra
-  - 🧑‍💻 IDEs : Pycharm / Visual Studio Code / CLion / IntelliJ IDEA / Trae / Kiro
-
-
 ### Self Introduction 
-I'm a innovator, explorer and builder. I am not content to learn and just imitate the knowledge and skills that already exist, but crazy about creating something new, which echoes what Greek philosopher Socrates said 2500 years ago, “Education is a kindling of a flame, not a filling of a vessel”. I love that what I do really changes the world, and coding is a way for me to interact with this world.
+I am a student from [Tsinghua University](https://www.tsinghua.edu.cn/) majoring in [Computer Science and Technology](https://www.cs.tsinghua.edu.cn/).I'm a innovator, explorer and builder. I am not content to learn and just imitate the knowledge and skills that already exist, but crazy about creating something new, which echoes what Greek philosopher Socrates said 2500 years ago, “Education is a kindling of a flame, not a filling of a vessel”. I love that what I do really changes the world, and coding is a way for me to interact with this world.
 
 ### My Research Interests
 
