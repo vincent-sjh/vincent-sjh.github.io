@@ -4,7 +4,7 @@ date: 2025-05-28 00:30:00 +0800
 categories: [Vincent's Technical Reports]
 tags: [Reverse Engineering,LLM,Decompiler]
 pin: true
-author: 宋建昊
+author: Vincent
 
 toc: true
 comments: true

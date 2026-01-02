@@ -3,9 +3,7 @@ title: About me
 icon: fas fa-info
 order: 20
 ---
-# Jianhao Song  宋建昊
-
-## [Vincent's Homepage](https://vincent-sjh.github.io/homepage/index.html)
+# Vincent
 
 ### Self Introduction 
 I am a student from Tsinghua University majoring in Computer Science and Technology.I'm a innovator, explorer and builder. I am not content to learn and just imitate the knowledge and skills that already exist, but crazy about creating something new, which echoes what Greek philosopher Socrates said 2500 years ago, “Education is a kindling of a flame, not a filling of a vessel”. I love that what I do really changes the world, and coding is a way for me to interact with this world.
@@ -33,11 +31,4 @@ I am a student from Tsinghua University majoring in Computer Science and Technol
 
 ### Links
 
-- [Blogs](https://vincent-sjh.github.io/)
-- [X](https://x.com/si57311)
-- [Github](https://github.com/vincent-sjh)
-- [YouTube](https://www.youtube.com/@Vincentyyy_AI_Lab)
-- [Bilibili](https://space.bilibili.com/3690994966989729)
-- [小红书](https://xiaohongshu.com/user/profile/6374d185000000001f014a93)
-- [即刻](https://web.okjike.com/u/fd09e0bf-18a5-4118-ba36-a6b5253f2c46)
-- [知乎](https://www.zhihu.com/people/song-jian-hao-72)
+[Homepage](https://vincent-sjh.github.io/homepage/index.html) / [Blogs](https://vincent-sjh.github.io/) / [X](https://x.com/si57311) / [Github](https://github.com/vincent-sjh) / [YouTube](https://www.youtube.com/@Vincentyyy_AI_Lab) / [Bilibili](https://space.bilibili.com/3690994966989729) / [小红书](https://xiaohongshu.com/user/profile/6374d185000000001f014a93) / [即刻](https://web.okjike.com/u/fd09e0bf-18a5-4118-ba36-a6b5253f2c46) / [知乎](https://www.zhihu.com/people/song-jian-hao-72)

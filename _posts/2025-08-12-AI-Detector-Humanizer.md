@@ -4,7 +4,7 @@ date: 2025-08-12 00:30:00 +0800
 categories: [Vincent's Technical Reports]
 tags: [AI,LLM,Detector,Humanizer]
 pin: true
-author: 宋建昊
+author: Vincent
 
 toc: true
 comments: true
