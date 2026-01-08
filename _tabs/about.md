@@ -31,4 +31,4 @@ I am a student from Tsinghua University majoring in Computer Science and Technol
 
 ### Links
 
-[Homepage](https://vincent-sjh.github.io/homepage/index.html) / [X](https://x.com/si57311) / [Github](https://github.com/vincent-sjh) / [Huggingface](https://huggingface.co/Vincentyyy) / [YouTube](https://www.youtube.com/@Vincentyyy_AI_Lab) / [Bilibili](https://space.bilibili.com/3690994966989729) / [小红书](https://xiaohongshu.com/user/profile/6374d185000000001f014a93) / [知乎](https://www.zhihu.com/people/song-jian-hao-72)
+[Homepage](https://vincent-sjh.github.io/homepage/index.html) / [X](https://x.com/si57311) / [Github](https://github.com/vincent-sjh) / [Huggingface](https://huggingface.co/Vincentyyy) / [YouTube](https://www.youtube.com/@Vincentyyy_AI_Lab) / [抖音](https://www.douyin.com/user/MS4wLjABAAAAsZm0FWHsuGoWPQdqmWfrBVfKztMxsH9bJJvjDs2BDYE) / [Bilibili](https://space.bilibili.com/3690994966989729) / [小红书](https://xiaohongshu.com/user/profile/6374d185000000001f014a93) / [知乎](https://www.zhihu.com/people/song-jian-hao-72)
